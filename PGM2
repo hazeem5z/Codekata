@@ -1,0 +1,7 @@
+value=int(input())
+if value==0:
+	print("zero")
+elif value>0:
+	print("positive")
+else:
+	print("negative")
